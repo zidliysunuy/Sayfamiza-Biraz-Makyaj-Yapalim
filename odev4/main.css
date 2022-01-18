@@ -1,0 +1,22 @@
+.center{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(46, 141, 196);
+    font-family: sans-serif;
+}
+h2{
+    text-align: center;
+}
+
+.licenter{
+    list-style-position: inside;
+    display: table; 
+    text-align: left;
+    margin: 0 auto;
+}
+
+a{
+    text-decoration: none;
+}
